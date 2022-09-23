@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaryseIT120
-- 👀 I’m interested in Cybersecurity, Information Systems, Information Security, Languages,
+- 👀 I’m interested in Cybersecurity, Information Systems, Information Security, CompTIA Certificates, Languages,
 - 🌱 I’m currently learning Cybersecurity...
 - 💞️ I’m looking to collaborate on several projects pertaining to Cybersecurity.
 - 📫 How to reach me ...
