@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaryseIT120
-- 👀 I’m interested in Cybersecurity, Information System, Software, Languages,
+- 👀 I’m interested in Cybersecurity, Information Systems, Languages,
 - 🌱 I’m currently learning Cybersecurity...
-- 💞️ I’m looking to collaborate on several projects pertaining to CYbersecurity.
+- 💞️ I’m looking to collaborate on several projects pertaining to Cybersecurity.
 - 📫 How to reach me ...
 
 <!---
